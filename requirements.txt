@@ -46,7 +46,7 @@ IMAPClient==2.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib==0.15.1
+joblib==1.2.0
 kombu==4.6.8
 lxml==4.5.1
 MarkupSafe==1.1.1
